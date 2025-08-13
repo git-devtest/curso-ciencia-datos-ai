@@ -27,3 +27,16 @@
     | list   | [1, 2, 3]            | Lista ordenada de elementos        |
     | dict   | {"clave": "valor"}   | Diccionario (clave-valor)          |
     ----------------------------------------------------------------------
+
+## Semana 1 - Día 2
+
+### Para la segunda semana veremos
+
+1. Funciones en Python (definición, argumentos y retorno)   
+    🔹 Definición básica   
+    🔹 Argumentos y retorno   
+    🔹 Parámetros por defecto   
+    🔹 Argumentos nombrados   
+2. Manejo de excepciones (try-except)      
+3. Ejercicio de práctica con funciones   
+    🔹 Cálculo de áreas con funciones   
