@@ -2,17 +2,17 @@
 
 ### Para esta primera semana nos acercamos a Python
   
-1. 🐍 Introducción a Python
-    🔹 Sintaxis básica
-    🔹 Tipos de Datos
-2. 🔄 Estructuras de control: Condicionales
-    🔹 if, elif, else: Permiten ejecutar código según condiciones.
-    🔹 Operadores comunes: Se usan para comparar valores y devolver True o False.
-3. 🔁 Bucles y comprensión de listas
-    🔹 Bucle for: Recorre elementos de una secuencia.
-    🔹 Bucle while: Se ejecuta mientras la condición sea verdadera.
-    🔹 range(): Función útil para generar secuencias numéricas.
-    🔹 Comprensión de listas: Forma compacta de crear listas.
+1. 🐍 Introducción a Python  
+  🔹 Sintaxis básica  
+  🔹 Tipos de Datos
+2. 🔄 Estructuras de control: Condicionales  
+    🔹 if, elif, else: Permiten ejecutar código según condiciones.  
+    🔹 Operadores comunes: Se usan para comparar valores y devolver True o False.  
+3. 🔁 Bucles y comprensión de listas  
+    🔹 Bucle for: Recorre elementos de una secuencia.  
+    🔹 Bucle while: Se ejecuta mientras la condición sea verdadera.  
+    🔹 range(): Función útil para generar secuencias numéricas.  
+    🔹 Comprensión de listas: Forma compacta de crear listas.  
 
 ### Tipos de datos en Python
     Python tiene varios tipos de datos básicos que puedes usar para almacenar información.
